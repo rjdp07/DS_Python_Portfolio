@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Worldsasdas! on RJ DS</title>
+    <link>https://rjdp07.github.io/DS_Portolio_v2/</link>
+    <description>Recent content in Hello Worldsasdas! on RJ DS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://rjdp07.github.io/DS_Portolio_v2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: End 2 End ML PROJECT</title>
+      <link>https://rjdp07.github.io/DS_Portolio_v2/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <guid>https://rjdp07.github.io/DS_Portolio_v2/post/project-2/</guid>
+      <description>Something About this Project</description>
+    </item>
+    <item>
+      <title>Project 1: Churn analysissdasd</title>
+      <link>https://rjdp07.github.io/DS_Portolio_v2/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>https://rjdp07.github.io/DS_Portolio_v2/post/project-1/</guid>
+      <description>Something about churn analysis&#xA;Analysis Clipart Github Repo Link</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://rjdp07.github.io/DS_Portolio_v2/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rjdp07.github.io/DS_Portolio_v2/about/</guid>
+      <description>Hi! I&amp;rsquo;m Ray John but you can just call me RJ for short. I love playing computer games, blah blah</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://rjdp07.github.io/DS_Portolio_v2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rjdp07.github.io/DS_Portolio_v2/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.&#xA;Your Name Email Address An email address is required. Message </description>
+    </item>
+  </channel>
+</rss>
